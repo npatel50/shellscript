@@ -1,0 +1,3 @@
+cd ~/
+ls -lrt
+date
