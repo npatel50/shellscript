@@ -1,3 +1,5 @@
 cd ~/
-ls -lrt
 date
+ls -lrt
+cd ~/.ssh
+ls -lrt
